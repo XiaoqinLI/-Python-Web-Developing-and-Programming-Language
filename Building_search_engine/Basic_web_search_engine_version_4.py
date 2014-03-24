@@ -105,23 +105,23 @@ def crawl_web(seed,max_depth):
             current_depth +=1
     return crawled
 
-print crawl_web("http://www.linkedin.com/courses/index.html",0)
+print (crawl_web("http://www.linkedin.com/courses/index.html",0))
 #>>> ['http://www.linkedin.com/courses/index.html']
 
-print crawl_web("http://www.linkedin.com/courses/index.html",1)
+print (crawl_web("http://www.linkedin.com/courses/index.html",1))
 #>>> ['http://www.linkedin.com/courses/index.html',
 #>>> 'http://www.linkedin.com/courses/flying.html',
 #>>> 'http://www.linkedin.com/courses/walking.html',
 #>>> 'http://www.linkedin.com/courses/crawling.html']
 
-print crawl_web("http://www.linkedin.com/courses/index.html",50)
+print (crawl_web("http://www.linkedin.com/courses/index.html",50))
 #>>> ['http://www.linkedin.com/courses/index.html',
 #>>> 'http://www.linkedin.com/courses/flying.html',
 #>>> 'http://www.linkedin.com/courses/walking.html',
 #>>> 'http://www.linkedin.com/courses/crawling.html',
 #>>> 'http://www.linkedin.com/courses/kicking.html']
 
-print crawl_web("http://top.contributors/forbiddenvoid.html",2)
+print (crawl_web("http://top.contributors/forbiddenvoid.html",2))
 #>>> ['http://top.contributors/forbiddenvoid.html',
 #>>> 'http://top.contributors/graemeblake.html',
 #>>> 'http://top.contributors/angel.html',
@@ -129,6 +129,6 @@ print crawl_web("http://top.contributors/forbiddenvoid.html",2)
 #>>> 'http://top.contributors/johang.html',
 #>>> 'http://top.contributors/charlzz.html']
 
-print crawl_web("A1",3)
+print (crawl_web("A1",3))
 #>>> ['A1', 'C1', 'B1', 'E1', 'D1', 'F1']
 # (May be in any order)

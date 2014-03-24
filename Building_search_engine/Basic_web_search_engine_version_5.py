@@ -94,6 +94,6 @@ def lookup(index, keyword):
     return None
 
 index = crawl_web("http://www.linkedin.com/courses/index.html")
-print lookup(index,"is")
+print (lookup(index,"is")
 #print index
 #>>> ['http://www.linkedin.com/courses/index.html']
