@@ -22,7 +22,17 @@
     <favorites_list name="ProgrammingLanguages_Udacity" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="AddToChart_4_0.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddToChart_4_0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="30" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.6098765" vertical-offset="513" max-vertical-offset="3154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -40,6 +50,12 @@
         <option value="$PROJECT_DIR$/AddToChart_4.py" />
         <option value="$PROJECT_DIR$/OptionalArguments_4_02.py" />
         <option value="$PROJECT_DIR$/AddToChart_4_01.py" />
+        <option value="$PROJECT_DIR$/BankHeist_4_1.py" />
+        <option value="$PROJECT_DIR$/CommonGround.py" />
+        <option value="$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py" />
+        <option value="$PROJECT_DIR$/ParsingJavaScriptStatements.py" />
+        <option value="$PROJECT_DIR$/ParsingJavaScriptExpressions.py" />
+        <option value="$PROJECT_DIR$/.idea/ComplexityOfParsing_4_Challenge.py" />
       </list>
     </option>
   </component>
@@ -112,8 +128,8 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.AddToChart_4_01">
-    <configuration default="false" name="ReadingMacheineMinds_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.AddToChart_4_0">
+    <configuration default="false" name="BankHeist_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -125,33 +141,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadingMacheineMinds_3_2.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="InfiniteMindReading_3_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InfiniteMindReading_3_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BankHeist_4_1.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="DetectingAmbiguity_3_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="CommonGround" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -163,15 +159,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DetectingAmbiguity_3_5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity\CommonGround_4_2.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="AddToChart_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="FindingMaxFunc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,15 +177,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity\AddToChart_4_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindingMaxFunc.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="AddToChart_4_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ParsingJavaScriptStatements_4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +195,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddToChart_4_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AddToChart_4_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProgrammingLanguages_Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddToChart_4_0.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -331,19 +341,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ReadingMacheineMinds_3_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.InfiniteMindReading_3_4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DetectingAmbiguity_3_5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.AddToChart_4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AddToChart_4_01" />
+      <item index="0" class="java.lang.String" itemvalue="Python.BankHeist_4_1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CommonGround" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FindingMaxFunc" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ParsingJavaScriptStatements_4_4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AddToChart_4_0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AddToChart_4_01" />
-        <item index="1" class="java.lang.String" itemvalue="Python.AddToChart_4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DetectingAmbiguity_3_5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.InfiniteMindReading_3_4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ReadingMacheineMinds_3_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AddToChart_4_0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ParsingJavaScriptStatements_4_4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FindingMaxFunc" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CommonGround" />
+        <item index="4" class="java.lang.String" itemvalue="Python.BankHeist_4_1" />
       </list>
     </recent_temporary>
   </component>
@@ -375,17 +385,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1032" y="-8" width="1040" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23429711" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30408773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39776358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31929824" sideWeight="0.5003762" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29073483" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29073483" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -413,7 +423,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/AddToChart_4_01.py</url>
+          <url>file://$PROJECT_DIR$/AddToChart_4_0.py</url>
           <line>37</line>
         </line-breakpoint>
       </breakpoints>
@@ -452,11 +462,6 @@
         <state line="114" column="23" selection-start="3914" selection-end="3938" vertical-scroll-proportion="0.5869565" vertical-offset="1950" max-vertical-offset="2755" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindingMaxFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="111" selection-end="111" vertical-scroll-proportion="0.21714285" vertical-offset="0" max-vertical-offset="494" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadingMacheineMinds_3_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698">
@@ -485,9 +490,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddToChart_4_01.py">
+    <entry file="file://$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="27" selection-start="4138" selection-end="4138" vertical-scroll-proportion="0.9382716" vertical-offset="1653" max-vertical-offset="3154">
+        <state line="10" column="46" selection-start="420" selection-end="420" vertical-scroll-proportion="-7.8976607" vertical-offset="2891" max-vertical-offset="4636">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindingMaxFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6221663" vertical-offset="0" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpandingExp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="0.52644837" vertical-offset="0" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonGround_4_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="1" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.3299748" vertical-offset="971" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParsingJavaScriptExpressions_4_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="40" selection-start="4528" selection-end="4540" vertical-scroll-proportion="0.086419754" vertical-offset="1941" max-vertical-offset="4997">
+          <folding>
+            <element signature="e#4578#4601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankHeist_4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="2031" selection-end="2031" vertical-scroll-proportion="0.18181819" vertical-offset="855" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddToChart_4_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="30" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.6098765" vertical-offset="513" max-vertical-offset="3154">
           <folding />
         </state>
       </provider>
