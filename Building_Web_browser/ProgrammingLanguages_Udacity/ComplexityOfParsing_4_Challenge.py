@@ -184,5 +184,15 @@ for i in [5,10,15,20,25]:
 # parentheses grammar behaves like X^1, not X^3. So this isn't the
 # answer. Use your creativity to find something that is.
 
-grammar = [ ] # put your final answer here
-tokens = [ ] # put your final answer here
+
+grammar = [
+  ("S", ["P" ]) ,
+  ("P", ["x"]),
+  ("P", ["P","P"]),
+  ("P", [ ]) ,
+] # put your final answer here
+
+for i in [40]:
+    tokens = ["x" for x in range(i)]
+    test_it(grammar,tokens)
+
