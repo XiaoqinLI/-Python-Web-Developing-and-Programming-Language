@@ -23,10 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Frames_5_0.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Frames_5_0.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frames_5_0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="0" selection-start="2437" selection-end="2437" vertical-scroll-proportion="0.6031746" vertical-offset="969" max-vertical-offset="2394">
+            <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="-22.12" vertical-offset="340" max-vertical-offset="2394">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaScriptBigBang_6_2.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="1.0475" vertical-offset="1614" max-vertical-offset="2489">
+              <folding>
+                <element signature="e#1873#1894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HigherOrderFunction_5_5.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HigherOrderFunction_5_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
               <folding />
             </state>
           </provider>
@@ -59,6 +79,12 @@
         <option value="$PROJECT_DIR$/ComplexityOfParsing_4_Challenge.py" />
         <option value="$PROJECT_DIR$/HigherOrderFunction_5_5.py" />
         <option value="$PROJECT_DIR$/Frames_5_0.py" />
+        <option value="$PROJECT_DIR$/ParsingJavaScriptExpressions_4_5.py" />
+        <option value="$PROJECT_DIR$/JavaScriptBigBang_6_2.py" />
+        <option value="$PROJECT_DIR$/DebuggingEnvironment_6_2.py" />
+        <option value="$PROJECT_DIR$/FixItUpOptimization_6_0.py" />
+        <option value="$PROJECT_DIR$/BindingNumber_6_4.py" />
+        <option value="$PROJECT_DIR$/TheLivingAndTheDead_6_5.py" />
       </list>
     </option>
   </component>
@@ -131,8 +157,13 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Frames_5_0">
-    <configuration default="false" name="ParsingJavaScriptStatements_4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FixItUpOptimization_6_0">
+    <configuration default="false" name="FixItUpOptimization_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -144,13 +175,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FixItUpOptimization_6_0.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="AddToChart_4_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="JavaScriptBigBang_6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,13 +193,33 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddToChart_4_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JavaScriptBigBang_6_2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DebuggingEnvironment_6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProgrammingLanguages_Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DebuggingEnvironment_6_2.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ComplexityOfParsing_4_Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="BindingNumber_6_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -180,13 +231,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ComplexityOfParsing_4_Challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BindingNumber_6_4.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Frames_5_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TheLivingAndTheDead_6_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -198,27 +249,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frames_5_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TheLivingAndTheDead_6_5.py" />
       <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="HigherOrderFunction_5_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HigherOrderFunction_5_5.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -344,19 +379,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ParsingJavaScriptStatements_4_4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.AddToChart_4_0" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ComplexityOfParsing_4_Challenge" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Frames_5_0" />
-      <item index="4" class="java.lang.String" itemvalue="Python.HigherOrderFunction_5_5" />
+      <item index="0" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.JavaScriptBigBang_6_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Frames_5_0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HigherOrderFunction_5_5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ComplexityOfParsing_4_Challenge" />
-        <item index="3" class="java.lang.String" itemvalue="Python.AddToChart_4_0" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ParsingJavaScriptStatements_4_4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.JavaScriptBigBang_6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -394,11 +429,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2267658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39776358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20446096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37201366" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31929824" sideWeight="0.5003762" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3105802" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25085324" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -429,8 +464,13 @@
           <url>file://$PROJECT_DIR$/AddToChart_4_0.py</url>
           <line>37</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/BindingNumber_6_4.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -528,9 +568,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ComplexityOfParsing_4_Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="52" selection-start="7328" selection-end="7328" vertical-scroll-proportion="2.2942584" vertical-offset="2461" max-vertical-offset="3876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="177" column="0" selection-start="5740" selection-end="5740" vertical-scroll-proportion="0.83086056" vertical-offset="2765" max-vertical-offset="3439">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ParsingJavaScriptExpressions_4_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="20" selection-start="4508" selection-end="4508" vertical-scroll-proportion="-2.4348958" vertical-offset="2911" max-vertical-offset="4997">
+        <state line="193" column="23" selection-start="6894" selection-end="6911" vertical-scroll-proportion="3.0314465" vertical-offset="1739" max-vertical-offset="4997">
           <folding>
             <element signature="e#4578#4601#0" expanded="true" />
           </folding>
@@ -539,29 +593,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="178" column="30" selection-start="6032" selection-end="6032" vertical-scroll-proportion="3.8469136" vertical-offset="1767" max-vertical-offset="4636">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ComplexityOfParsing_4_Challenge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="52" selection-start="7328" selection-end="7328" vertical-scroll-proportion="2.2942584" vertical-offset="2461" max-vertical-offset="3876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HigherOrderFunction_5_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="3.2273972" vertical-offset="133" max-vertical-offset="1539">
+        <state line="125" column="23" selection-start="4891" selection-end="4899" vertical-scroll-proportion="0.33333334" vertical-offset="2106" max-vertical-offset="4636">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Frames_5_0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="2437" selection-end="2437" vertical-scroll-proportion="0.6031746" vertical-offset="969" max-vertical-offset="2394">
+        <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="-22.12" vertical-offset="340" max-vertical-offset="2394">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HigherOrderFunction_5_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="1" selection-start="4333" selection-end="4333" vertical-scroll-proportion="0.36989796" vertical-offset="2211" max-vertical-offset="3572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BindingNumber_6_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="24" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0" vertical-offset="753" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FixItUpOptimization_6_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="56" selection-start="194" selection-end="194" vertical-scroll-proportion="0.29081634" vertical-offset="0" max-vertical-offset="665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DebuggingEnvironment_6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="27" selection-start="3501" selection-end="3501" vertical-scroll-proportion="4.968523" vertical-offset="0" max-vertical-offset="2641">
+          <folding>
+            <element signature="e#1455#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="1.0475" vertical-offset="1614" max-vertical-offset="2489">
+          <folding>
+            <element signature="e#1873#1894#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
