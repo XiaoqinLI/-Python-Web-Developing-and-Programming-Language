@@ -148,7 +148,7 @@ def removedead(fragment,returned):
         if statement[0] in liveFrag:
             newFrag = [statement] + newFrag # create a new object
             #newFrag.append(statement)
-        liveFrag = [ x for x in liveFrag if x != statement[0]]
+        liveFrag = [ x for x in liveFrag if statement[0] != x]
         liveFrag = liveFrag + statement[1]
     if newFrag == fragment:
         return newFrag

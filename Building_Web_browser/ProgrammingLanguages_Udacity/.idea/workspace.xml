@@ -23,30 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Frames_5_0.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Frames_5_0.py">
+      <file leaf-file-name="TheLivingAndTheDead_6_5.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="-22.12" vertical-offset="340" max-vertical-offset="2394">
+            <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="-11.4" vertical-offset="2660" max-vertical-offset="3572">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaScriptBigBang_6_2.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
+      <file leaf-file-name="AutoMaticDebugging_6_C.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="1.0475" vertical-offset="1614" max-vertical-offset="2489">
-              <folding>
-                <element signature="e#1873#1894#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HigherOrderFunction_5_5.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HigherOrderFunction_5_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
+            <state line="79" column="24" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-0.7752525" vertical-offset="1808" max-vertical-offset="2204">
               <folding />
             </state>
           </provider>
@@ -85,14 +74,15 @@
         <option value="$PROJECT_DIR$/FixItUpOptimization_6_0.py" />
         <option value="$PROJECT_DIR$/BindingNumber_6_4.py" />
         <option value="$PROJECT_DIR$/TheLivingAndTheDead_6_5.py" />
+        <option value="$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="1" />
+    <option name="y" value="2" />
+    <option name="width" value="1364" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -144,7 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Fall_2014" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -162,7 +152,7 @@
       <recent name="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FixItUpOptimization_6_0">
+  <component name="RunManager" selected="Python.AutoMaticDebugging_6_C">
     <configuration default="false" name="FixItUpOptimization_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,26 +168,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FixItUpOptimization_6_0.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="JavaScriptBigBang_6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JavaScriptBigBang_6_2.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -254,6 +224,24 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AutoMaticDebugging_6_C" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProgrammingLanguages_Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -380,18 +368,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.JavaScriptBigBang_6_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AutoMaticDebugging_6_C" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AutoMaticDebugging_6_C" />
         <item index="1" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.JavaScriptBigBang_6_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -422,26 +410,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="1" y="2" width="1364" height="725" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20446096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37201366" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21024868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3596059" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31929824" sideWeight="0.5003762" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25085324" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.258348" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -474,25 +462,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReadingMacheineMinds_3_2.py">
+    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698">
+        <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="0.0" vertical-offset="2660" max-vertical-offset="3572">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="61" selection-start="5318" selection-end="5318" vertical-scroll-proportion="0.0" vertical-offset="2610" max-vertical-offset="3572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingMacheineMinds_3_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InfiniteMindReading_3_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="0" selection-start="4615" selection-end="4615" vertical-scroll-proportion="0.0" vertical-offset="2698" max-vertical-offset="3363">
-          <folding />
-        </state>
+        <state line="142" column="0" selection-start="4615" selection-end="4615" vertical-scroll-proportion="0.0" vertical-offset="2698" max-vertical-offset="3363" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DetectingAmbiguity_3_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="34" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="2755">
-          <folding />
-        </state>
+        <state line="68" column="34" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="2755" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Non_determinism_FSM.py">
@@ -507,58 +503,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReadingMacheineMinds_3_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698">
-          <folding />
-        </state>
+        <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InfiniteMindReading_3_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="0" selection-start="4615" selection-end="4615" vertical-scroll-proportion="0.0" vertical-offset="2565" max-vertical-offset="3363">
-          <folding />
-        </state>
+        <state line="142" column="0" selection-start="4615" selection-end="4615" vertical-scroll-proportion="0.0" vertical-offset="2565" max-vertical-offset="3363" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RegExpPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="3257" selection-end="3257" vertical-scroll-proportion="0.93214285" vertical-offset="1758" max-vertical-offset="2413">
-          <folding />
-        </state>
+        <state line="120" column="0" selection-start="3257" selection-end="3257" vertical-scroll-proportion="0.93214285" vertical-offset="1758" max-vertical-offset="2413" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DetectingAmbiguity_3_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="69" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="836" max-vertical-offset="2755">
-          <folding />
-        </state>
+        <state line="49" column="69" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="836" max-vertical-offset="2755" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FindingMaxFunc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="36" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6221663" vertical-offset="0" max-vertical-offset="494">
-          <folding />
-        </state>
+        <state line="13" column="36" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6221663" vertical-offset="0" max-vertical-offset="494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExpandingExp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="0.52644837" vertical-offset="0" max-vertical-offset="684">
-          <folding />
-        </state>
+        <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="0.52644837" vertical-offset="0" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CommonGround_4_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="1" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.3299748" vertical-offset="971" max-vertical-offset="1995">
-          <folding />
-        </state>
+        <state line="58" column="1" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.3299748" vertical-offset="971" max-vertical-offset="1995" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BankHeist_4_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2031" selection-end="2031" vertical-scroll-proportion="0.18181819" vertical-offset="855" max-vertical-offset="1292">
-          <folding />
-        </state>
+        <state line="49" column="0" selection-start="2031" selection-end="2031" vertical-scroll-proportion="0.18181819" vertical-offset="855" max-vertical-offset="1292" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddToChart_4_0.py">
@@ -570,53 +550,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ComplexityOfParsing_4_Challenge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="52" selection-start="7328" selection-end="7328" vertical-scroll-proportion="2.2942584" vertical-offset="2461" max-vertical-offset="3876">
-          <folding />
-        </state>
+        <state line="180" column="52" selection-start="7328" selection-end="7328" vertical-scroll-proportion="2.2942584" vertical-offset="2461" max-vertical-offset="3876" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="0" selection-start="5740" selection-end="5740" vertical-scroll-proportion="0.83086056" vertical-offset="2765" max-vertical-offset="3439">
-          <folding />
-        </state>
+        <state line="177" column="0" selection-start="5740" selection-end="5740" vertical-scroll-proportion="0.83086056" vertical-offset="2765" max-vertical-offset="3439" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParsingJavaScriptExpressions_4_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="23" selection-start="6894" selection-end="6911" vertical-scroll-proportion="3.0314465" vertical-offset="1739" max-vertical-offset="4997">
-          <folding>
-            <element signature="e#4578#4601#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="193" column="23" selection-start="6894" selection-end="6911" vertical-scroll-proportion="3.0314465" vertical-offset="1739" max-vertical-offset="4997" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParsingJavaScriptStatements_4_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="23" selection-start="4891" selection-end="4899" vertical-scroll-proportion="0.33333334" vertical-offset="2106" max-vertical-offset="4636">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frames_5_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="-22.12" vertical-offset="340" max-vertical-offset="2394">
-          <folding />
-        </state>
+        <state line="125" column="23" selection-start="4891" selection-end="4899" vertical-scroll-proportion="0.33333334" vertical-offset="2106" max-vertical-offset="4636" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HigherOrderFunction_5_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="1" selection-start="4333" selection-end="4333" vertical-scroll-proportion="0.36989796" vertical-offset="2211" max-vertical-offset="3572">
-          <folding />
-        </state>
+        <state line="69" column="30" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BindingNumber_6_4.py">
@@ -628,26 +582,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FixItUpOptimization_6_0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="194" selection-end="194" vertical-scroll-proportion="0.29081634" vertical-offset="0" max-vertical-offset="665">
-          <folding />
-        </state>
+        <state line="6" column="56" selection-start="194" selection-end="194" vertical-scroll-proportion="0.29081634" vertical-offset="0" max-vertical-offset="665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DebuggingEnvironment_6_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="27" selection-start="3501" selection-end="3501" vertical-scroll-proportion="4.968523" vertical-offset="0" max-vertical-offset="2641">
-          <folding>
-            <element signature="e#1455#1476#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="108" column="27" selection-start="3501" selection-end="3501" vertical-scroll-proportion="4.968523" vertical-offset="0" max-vertical-offset="2641" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frames_5_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="1.4252577" vertical-offset="340" max-vertical-offset="2394" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="1.0475" vertical-offset="1614" max-vertical-offset="2489">
-          <folding>
-            <element signature="e#1873#1894#0" expanded="true" />
-          </folding>
+        <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="3.8930817" vertical-offset="795" max-vertical-offset="2489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="-11.4" vertical-offset="2660" max-vertical-offset="3572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="24" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-0.7752525" vertical-offset="1808" max-vertical-offset="2204">
+          <folding />
         </state>
       </provider>
     </entry>
