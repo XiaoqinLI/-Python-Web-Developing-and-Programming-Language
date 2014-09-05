@@ -22,26 +22,7 @@
     <favorites_list name="ProgrammingLanguages_Udacity" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TheLivingAndTheDead_6_5.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="-11.4" vertical-offset="2660" max-vertical-offset="3572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutoMaticDebugging_6_C.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="24" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-0.7752525" vertical-offset="1808" max-vertical-offset="2204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -75,13 +56,20 @@
         <option value="$PROJECT_DIR$/BindingNumber_6_4.py" />
         <option value="$PROJECT_DIR$/TheLivingAndTheDead_6_5.py" />
         <option value="$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py" />
+        <option value="$PROJECT_DIR$/UnderscoringTheMagnitude_7_1.py" />
+        <option value="$PROJECT_DIR$/GrueSome_7_4.py" />
+        <option value="$PROJECT_DIR$/TurningBackTime.py" />
+        <option value="$PROJECT_DIR$/TurningBackTime_7_5.py" />
+        <option value="$PROJECT_DIR$/MarketExchange_7_3.py" />
+        <option value="$PROJECT_DIR$/NoRepeatWork_7_6.py" />
+        <option value="$PROJECT_DIR$/TerribleTuple_7_2.py" />
+        <option value="$PROJECT_DIR$/DicerningGrammar_7_8.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="2" />
-    <option name="width" value="1364" />
+    <option name="x" value="154" />
+    <option name="width" value="698" />
     <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -110,6 +98,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,7 +119,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,6 +129,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -152,8 +141,8 @@
       <recent name="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AutoMaticDebugging_6_C">
-    <configuration default="false" name="FixItUpOptimization_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TerribleTuple_7_2">
+    <configuration default="false" name="TurningBackTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -165,13 +154,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FixItUpOptimization_6_0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\daybreaklee\Udacity\Building_Web_browser\ProgrammingLanguages_Udacity\TurningBackTime_7_5.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="DebuggingEnvironment_6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TurningBackTime_7_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,13 +172,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DebuggingEnvironment_6_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TurningBackTime_7_5.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="BindingNumber_6_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="MarketExchange_7_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -201,25 +190,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BindingNumber_6_4.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TheLivingAndTheDead_6_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TheLivingAndTheDead_6_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MarketExchange_7_3.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -227,19 +198,39 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="AutoMaticDebugging_6_C" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="NoRepeatWork_7_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Python27\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProgrammingLanguages_Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NoRepeatWork_7_6.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TerribleTuple_7_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProgrammingLanguages_Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TerribleTuple_7_2.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -367,19 +358,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AutoMaticDebugging_6_C" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TurningBackTime" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TurningBackTime_7_5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MarketExchange_7_3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NoRepeatWork_7_6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TerribleTuple_7_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AutoMaticDebugging_6_C" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TheLivingAndTheDead_6_5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FixItUpOptimization_6_0" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BindingNumber_6_4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DebuggingEnvironment_6_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TerribleTuple_7_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NoRepeatWork_7_6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MarketExchange_7_3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TurningBackTime_7_5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TurningBackTime" />
       </list>
     </recent_temporary>
   </component>
@@ -410,26 +401,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="2" width="1364" height="725" extended-state="1" />
-    <editor active="true" />
+    <frame x="154" y="0" width="698" height="725" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21024868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3596059" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31929824" sideWeight="0.5003762" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.258348" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18910742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40773287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31929824" sideWeight="0.5003762" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25483304" sideWeight="0.49962378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -457,11 +448,28 @@
           <line>91</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/MarketExchange_7_3.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/NoRepeatWork_7_6.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="42" selection-start="5362" selection-end="5362" vertical-scroll-proportion="0.0" vertical-offset="2660" max-vertical-offset="3572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="0.0" vertical-offset="2660" max-vertical-offset="3572">
@@ -496,11 +504,6 @@
         <state line="22" column="38" selection-start="867" selection-end="867" vertical-scroll-proportion="-209.0" vertical-offset="0" max-vertical-offset="3040" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HexadecimalNumbers_2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="23" selection-start="3914" selection-end="3938" vertical-scroll-proportion="0.5869565" vertical-offset="1950" max-vertical-offset="2755" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadingMacheineMinds_3_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="74" selection-start="2744" selection-end="2799" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2698" />
@@ -519,11 +522,6 @@
     <entry file="file://$PROJECT_DIR$/DetectingAmbiguity_3_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="69" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.0" vertical-offset="836" max-vertical-offset="2755" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindingMaxFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="36" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6221663" vertical-offset="0" max-vertical-offset="494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExpandingExp.py">
@@ -595,22 +593,109 @@
         <state line="47" column="39" selection-start="1983" selection-end="1983" vertical-scroll-proportion="1.4252577" vertical-offset="340" max-vertical-offset="2394" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="3.8930817" vertical-offset="795" max-vertical-offset="2489" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TheLivingAndTheDead_6_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="43" selection-start="5467" selection-end="5467" vertical-scroll-proportion="-11.4" vertical-offset="2660" max-vertical-offset="3572">
+        <state line="151" column="42" selection-start="5362" selection-end="5362" vertical-scroll-proportion="-15.2" vertical-offset="2489" max-vertical-offset="3572">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/AutoMaticDebugging_6_C.py">
+    <entry file="file://C:/Python27/Lib/site-packages/ply/lex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="24" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-0.7752525" vertical-offset="1808" max-vertical-offset="2204">
+        <state line="893" column="0" selection-start="35173" selection-end="35173" vertical-scroll-proportion="0.88807786" vertical-offset="16602" max-vertical-offset="20216">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HexadecimalNumbers_2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="16" selection-start="3571" selection-end="3571" vertical-scroll-proportion="1.7409326" vertical-offset="1152" max-vertical-offset="2755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnderscoringTheMagnitude_7_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="17" selection-start="2479" selection-end="2479" vertical-scroll-proportion="-8.74" vertical-offset="1197" max-vertical-offset="2375">
+          <folding>
+            <marker date="1409937084700" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409937084700" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409937084700" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409937084700" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409937084700" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBigBang_6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="13" selection-start="4534" selection-end="4534" vertical-scroll-proportion="-14.4" vertical-offset="1540" max-vertical-offset="2356">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarketExchange_7_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="42" selection-start="3900" selection-end="3900" vertical-scroll-proportion="0.0" vertical-offset="1528" max-vertical-offset="3002">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TurningBackTime_7_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="2071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List_comp_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptCommentsAndKeywords_2_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindingMaxFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrueSome_7_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="59" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.0" vertical-offset="906" max-vertical-offset="1387">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NoRepeatWork_7_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="58" selection-start="4347" selection-end="4347" vertical-scroll-proportion="0.30898875" vertical-offset="1999" max-vertical-offset="3667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DicerningGrammar_7_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="40" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-1.1882023" vertical-offset="1487" max-vertical-offset="2755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TerribleTuple_7_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="2131" selection-end="2131" vertical-scroll-proportion="-0.5393586" vertical-offset="1629" max-vertical-offset="2793">
+          <folding>
+            <element signature="e#1506#1527#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,203 @@
+Created by PLY version 3.4 (http://www.dabeaz.com/ply)
+
+Grammar
+
+Rule 0     S' -> exp
+Rule 1     exp -> NUMBER
+Rule 2     exp -> LPAREN exp RPAREN
+Rule 3     exp -> LPAREN exp COMMA items RPAREN
+Rule 4     items -> exp COMMA items
+Rule 5     items -> exp
+Rule 6     items -> <empty>
+Rule 7     exp -> LBRACKET items RBRACKET
+
+Terminals, with rules where they appear
+
+COMMA                : 3 4
+LBRACKET             : 7
+LPAREN               : 2 3
+NUMBER               : 1
+RBRACKET             : 7
+RPAREN               : 2 3
+error                : 
+
+Nonterminals, with rules where they appear
+
+exp                  : 2 3 4 5 0
+items                : 3 4 7
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . exp
+    (1) exp -> . NUMBER
+    (2) exp -> . LPAREN exp RPAREN
+    (3) exp -> . LPAREN exp COMMA items RPAREN
+    (7) exp -> . LBRACKET items RBRACKET
+
+    NUMBER          shift and go to state 2
+    LPAREN          shift and go to state 4
+    LBRACKET        shift and go to state 3
+
+    exp                            shift and go to state 1
+
+state 1
+
+    (0) S' -> exp .
+
+
+
+state 2
+
+    (1) exp -> NUMBER .
+
+    $end            reduce using rule 1 (exp -> NUMBER .)
+    COMMA           reduce using rule 1 (exp -> NUMBER .)
+    RBRACKET        reduce using rule 1 (exp -> NUMBER .)
+    RPAREN          reduce using rule 1 (exp -> NUMBER .)
+
+
+state 3
+
+    (7) exp -> LBRACKET . items RBRACKET
+    (4) items -> . exp COMMA items
+    (5) items -> . exp
+    (6) items -> .
+    (1) exp -> . NUMBER
+    (2) exp -> . LPAREN exp RPAREN
+    (3) exp -> . LPAREN exp COMMA items RPAREN
+    (7) exp -> . LBRACKET items RBRACKET
+
+    RBRACKET        reduce using rule 6 (items -> .)
+    NUMBER          shift and go to state 2
+    LPAREN          shift and go to state 4
+    LBRACKET        shift and go to state 3
+
+    items                          shift and go to state 5
+    exp                            shift and go to state 6
+
+state 4
+
+    (2) exp -> LPAREN . exp RPAREN
+    (3) exp -> LPAREN . exp COMMA items RPAREN
+    (1) exp -> . NUMBER
+    (2) exp -> . LPAREN exp RPAREN
+    (3) exp -> . LPAREN exp COMMA items RPAREN
+    (7) exp -> . LBRACKET items RBRACKET
+
+    NUMBER          shift and go to state 2
+    LPAREN          shift and go to state 4
+    LBRACKET        shift and go to state 3
+
+    exp                            shift and go to state 7
+
+state 5
+
+    (7) exp -> LBRACKET items . RBRACKET
+
+    RBRACKET        shift and go to state 8
+
+
+state 6
+
+    (4) items -> exp . COMMA items
+    (5) items -> exp .
+
+    COMMA           shift and go to state 9
+    RBRACKET        reduce using rule 5 (items -> exp .)
+    RPAREN          reduce using rule 5 (items -> exp .)
+
+
+state 7
+
+    (2) exp -> LPAREN exp . RPAREN
+    (3) exp -> LPAREN exp . COMMA items RPAREN
+
+    RPAREN          shift and go to state 11
+    COMMA           shift and go to state 10
+
+
+state 8
+
+    (7) exp -> LBRACKET items RBRACKET .
+
+    $end            reduce using rule 7 (exp -> LBRACKET items RBRACKET .)
+    COMMA           reduce using rule 7 (exp -> LBRACKET items RBRACKET .)
+    RBRACKET        reduce using rule 7 (exp -> LBRACKET items RBRACKET .)
+    RPAREN          reduce using rule 7 (exp -> LBRACKET items RBRACKET .)
+
+
+state 9
+
+    (4) items -> exp COMMA . items
+    (4) items -> . exp COMMA items
+    (5) items -> . exp
+    (6) items -> .
+    (1) exp -> . NUMBER
+    (2) exp -> . LPAREN exp RPAREN
+    (3) exp -> . LPAREN exp COMMA items RPAREN
+    (7) exp -> . LBRACKET items RBRACKET
+
+    RBRACKET        reduce using rule 6 (items -> .)
+    RPAREN          reduce using rule 6 (items -> .)
+    NUMBER          shift and go to state 2
+    LPAREN          shift and go to state 4
+    LBRACKET        shift and go to state 3
+
+    items                          shift and go to state 12
+    exp                            shift and go to state 6
+
+state 10
+
+    (3) exp -> LPAREN exp COMMA . items RPAREN
+    (4) items -> . exp COMMA items
+    (5) items -> . exp
+    (6) items -> .
+    (1) exp -> . NUMBER
+    (2) exp -> . LPAREN exp RPAREN
+    (3) exp -> . LPAREN exp COMMA items RPAREN
+    (7) exp -> . LBRACKET items RBRACKET
+
+    RPAREN          reduce using rule 6 (items -> .)
+    NUMBER          shift and go to state 2
+    LPAREN          shift and go to state 4
+    LBRACKET        shift and go to state 3
+
+    items                          shift and go to state 13
+    exp                            shift and go to state 6
+
+state 11
+
+    (2) exp -> LPAREN exp RPAREN .
+
+    $end            reduce using rule 2 (exp -> LPAREN exp RPAREN .)
+    COMMA           reduce using rule 2 (exp -> LPAREN exp RPAREN .)
+    RBRACKET        reduce using rule 2 (exp -> LPAREN exp RPAREN .)
+    RPAREN          reduce using rule 2 (exp -> LPAREN exp RPAREN .)
+
+
+state 12
+
+    (4) items -> exp COMMA items .
+
+    RBRACKET        reduce using rule 4 (items -> exp COMMA items .)
+    RPAREN          reduce using rule 4 (items -> exp COMMA items .)
+
+
+state 13
+
+    (3) exp -> LPAREN exp COMMA items . RPAREN
+
+    RPAREN          shift and go to state 14
+
+
+state 14
+
+    (3) exp -> LPAREN exp COMMA items RPAREN .
+
+    $end            reduce using rule 3 (exp -> LPAREN exp COMMA items RPAREN .)
+    COMMA           reduce using rule 3 (exp -> LPAREN exp COMMA items RPAREN .)
+    RBRACKET        reduce using rule 3 (exp -> LPAREN exp COMMA items RPAREN .)
+    RPAREN          reduce using rule 3 (exp -> LPAREN exp COMMA items RPAREN .)
+
